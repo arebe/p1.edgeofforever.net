@@ -3,9 +3,11 @@
 <meta charset="utf-8">
 <title>CSCI-E14 Project 1</title>
 <link href="css/style.css" rel="stylesheet" type="text/css">
-<h1>Welcome to P1</h1>
 </head>
 <body>
+<header>
+<h1>Welcome to P1</h1>
+</header>
 <h2>Hello. My name is Rachel Boyce.</h2>
 <p>I'm a data and project manager at the Harvard Center for Population and
 Development Studies. I occasionally take on freelance WordPress
