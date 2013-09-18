@@ -1,7 +1,8 @@
-<html>
+<!DOCTYPE html>
 <head>
-<title>a page</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<meta charset="utf-8">
+<title>CSCI-E14 Project 1</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
 <h1>Welcome to P1</h1>
 </head>
 <body>
@@ -10,7 +11,8 @@
 Development Studies. I occasionally take on freelance WordPress
 projects, so I am excited to learn more about PHP. I really enjoyed learning Processing last
 semester, it appealed to my interests in creative computing and new
-media art. I am a painter and video artist, DJ, and bicyclist.</p>
+media art. I am a painter and video artist, DJ, and bicyclist. I have
+a cat named Fox, who is reading over my shoulder.</p>
 <p>My favorite text editor is Aquamacs, which is what I'm using to
 write this. </p>
 </body>
